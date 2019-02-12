@@ -1,0 +1,23 @@
+.captcha {
+    margin-top: 15px;
+    width: 160px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    padding: 10px;
+}
+.captcha-checkbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    border: 2px solid #e1e1e1;
+    color: #999999;
+}
+.contant-captcha-text {
+    margin-left: 5px;
+}
